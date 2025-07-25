@@ -1,4 +1,4 @@
-# ascii.live-termux fork from github.com/hugomd/parrot.live
+# ascii.live-termux fork ascii.live
 
 A fork project for hosting curl-based animations, all in one place, and a follow up to [`parrot.live`](https://github.com/hugomd/parrot.live).
 
@@ -15,4 +15,4 @@ You're in luck if you get a "nyan" endpoint.
 <img src="./demo.gif" width="400"/>
 
 ## Full source documentations 
-github.com/hugomd/parrot.live
+[github.com/hugomd/parrot.live](https://github.com/hugomd/ascii-live)
