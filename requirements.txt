@@ -1,0 +1,6 @@
+curl
+jq
+sed
+shuf
+awk
+lolcat
