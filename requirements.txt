@@ -4,3 +4,4 @@ sed
 shuf
 awk
 lolcat
+termux-api
